@@ -1,7 +1,7 @@
 library(plyr)
 library(dplyr)
 
-wd = '~/Documents/GitHub/ohi-global/eezCHONE'
+wd = '~/GitHub/ohi-global/eezCHONE'
 #wd = '/Users/bbest/Github_Mac/ohicore_Canada-CHONe/inst/extdata'
 setwd(wd)
 
